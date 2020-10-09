@@ -149,7 +149,7 @@ Projects
 * [Kubeless](https://github.com/skippbox/kubeless)
 * [Nuclio](https://github.com/nuclio/nuclio)
 * [OpenFaaS](https://github.com/alexellis/faas)
-* [OpenWhisk](https://github.com/openwhisk)
+* [OpenWhisk](https://github.com/apache/openwhisk)
 * [Virtual Kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Allows nodes to be backed by other services and providers.
 
 ## Operators
